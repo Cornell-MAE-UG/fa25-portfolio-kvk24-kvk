@@ -3,7 +3,7 @@ layout: project
 title: Actuator and Bar Sketch 
 description: Class project with Sketch 
 technologies: [N/A]
-image: /assets/images/function-graph.png
+image: /assets/images/actuator-sketch.png
 ---
 
 
