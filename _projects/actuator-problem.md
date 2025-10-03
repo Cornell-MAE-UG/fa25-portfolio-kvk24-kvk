@@ -11,6 +11,7 @@ As part of a class project, I was asked to design a toggle-type actuator mechani
 
 
 This is how I solved the problem - refer to full PDF for the solution. 
+[Download my Solution]({{ "/assets/Portfolio-Sketch.pdf" | relative_url }}) in PDF format.
 
 
 
