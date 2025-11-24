@@ -1,5 +1,5 @@
 ---
-layout: project
+layout: Assignment 
 title: Heat Transfer Device 
 description: Thermodynamics Portfolio Problem 2025
 technologies: [lab experimentation]
