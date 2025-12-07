@@ -24,7 +24,7 @@ Step 2:
 Please see PDF
 
 This is how I solved the problem from the first and second assignment - refer to full PDF for the solution. 
-[Download my Solution]({{ "/assets/Portfolio-Sketch.pdf" | relative_url }}) in PDF format.
+[Download my Solution]({{ "/assets/Portfolio Sketch 2.pdf" | relative_url }}) in PDF format.
 
 
 
