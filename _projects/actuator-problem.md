@@ -11,7 +11,7 @@ As part of a class project, I was asked to design a toggle-type actuator mechani
 
 For the second assignment:
 
-Step 1
+Step 1: 
 a)	The problem objective is to design a 3-pin lifting system in a given two-dimensional surface with height of 50 cm and width of 150 cm to carry the maximum weight in the given height and selecting one actuator from the given catalog.  The constraints are the give 2-D space (50cmx150cm), 3-pin mechanism (two pins connected to ground and one pin connects the actuator to a rigid rod). It is a Two-Dimensional problem with two degrees of freedom.
 
 b)	 “Method of Joints” was used to analyze the 3-pin lifting system, 
@@ -20,7 +20,7 @@ The equilibrium equation was developed for the joint at the top where actuator c
 
 c) Please see PDF
 
-Step 2
+Step 2: 
 Please see PDF
 
 This is how I solved the problem from the first and second assignment - refer to full PDF for the solution. 
