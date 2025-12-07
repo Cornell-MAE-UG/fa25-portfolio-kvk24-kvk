@@ -13,8 +13,9 @@ For the second assignment:
 
 Step 1
 a)	The problem objective is to design a 3-pin lifting system in a given two-dimensional surface with height of 50 cm and width of 150 cm to carry the maximum weight in the given height and selecting one actuator from the given catalog.  The constraints are the give 2-D space (50cmx150cm), 3-pin mechanism (two pins connected to ground and one pin connects the actuator to a rigid rod). It is a Two-Dimensional problem with two degrees of freedom.
+
 b)	 “Method of Joints” was used to analyze the 3-pin lifting system, 
- ΣFx = 0 and ΣFy = 0
+ΣFx = 0 and ΣFy = 0
 The equilibrium equation was developed for the joint at the top where actuator connects to rod ( Joint C , see graph below). Geometry and the force in the actuator is known, therefore the force in the rod the Weight could be determined.
 
 c) Please see PDF
