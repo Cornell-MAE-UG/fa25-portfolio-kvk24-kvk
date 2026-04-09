@@ -139,3 +139,64 @@ The product attempts to eliminate spotted lanternflies by vibrating at ~60 Hz an
 <li>Show consistent ~60 Hz vibration signal</li>
 <li>Allow audience to feel vibration</li>
 </ul>
+
+<h2>Design Tests</h2>
+
+<h3>Motion and Interference</h3>
+
+<p><strong>What will be tested:</strong> Vibration frequency of the rod and whether the vibration is transmitted along the full length of the rod.</p>
+
+<p><strong>Why will it be tested:</strong> The system must produce a vibration around 60 Hz to attract spotted lanternflies. The vibration must also propagate along the rod so that it can be detected upon contact.</p>
+
+<p><strong>Success Criterion tested:</strong><br>
+Criterion 1: Vibration Frequency<br>
+Criterion 2: Vibration Consistency<br>
+Criterion 3: Vibration Detectability
+</p>
+
+<p><strong>How it will be tested:</strong> A smartphone vibration analysis app (such as PhyPhox) will be used to measure frequency and generate a graph for analysis.</p>
+
+<p><strong>Photos of testing:</strong> T = 60 - 20 = 40 ms = 0.04 s → Frequency = 1/T = 25 Hz</p>
+
+<p><strong>Results of testing (Pass/Fail):</strong> Pass for all three criteria. The prototype produced a frequency of 25 Hz. Motion was primarily rotational and remained consistent for 5 minutes. The vibration was detectable by touch and sound.</p>
+
+<p><strong>Design Changes Needed:</strong> A stronger motor is needed to reach closer to 60 Hz. Rotational motion should be reduced in favor of vertical and horizontal vibration (x and z directions) to improve lanternfly interaction.</p>
+
+---
+
+<h3>Load Bearing and Structural Integrity</h3>
+
+<p><strong>What will be tested:</strong> Ability of the rod to remain upright under applied force.</p>
+
+<p><strong>Why will it be tested:</strong> The rod must withstand forces such as lanternfly weight and wind without tipping. Stability prevents component damage and maintains effective contact area.</p>
+
+<p><strong>Success Criterion tested:</strong> Criterion 4: Structural Stability</p>
+
+<p><strong>How it will be tested:</strong> A Newton-meter will be attached to the rod. Forces will be applied while measuring displacement and stability.</p>
+
+<p><strong>Photos of testing:</strong></p>
+
+<p><strong>Results of testing (Pass/Fail):</strong> Pass. The rod remained upright under 5 N of force with no permanent deformation.</p>
+
+<p><strong>Design Changes Needed:</strong> Minor reinforcement of the base through improved 3D printing will enhance durability. No major changes required.</p>
+
+---
+
+<h3>Repeat Use / Cycle Testing</h3>
+
+<p><strong>What will be tested:</strong> Consistency of vibration over time.</p>
+
+<p><strong>Why will it be tested:</strong> The system must operate continuously without failure. Stable vibration is necessary to consistently attract spotted lanternflies.</p>
+
+<p><strong>Success Criterion tested:</strong><br>
+Criterion 2: Vibration Consistency<br>
+Criterion 4: Structural Stability
+</p>
+
+<p><strong>How it will be tested:</strong> The system will run continuously for 5 minutes while frequency is recorded at the beginning, middle, and end using a vibration analysis app. Stability will also be observed.</p>
+
+<p><strong>Photos of testing:</strong></p>
+
+<p><strong>Results of testing (Pass/Fail):</strong> Pass for both criteria. The system ran continuously for 5 minutes, maintained a frequency of 25 Hz ± 5 Hz, and did not tip over.</p>
+
+<p><strong>Design Changes Needed:</strong> Increase frequency toward 60 Hz by selecting a stronger motor (e.g., from McMaster-Carr or Amazon). Consider a more durable rod material due to observed wear at the base contact point.</p>
