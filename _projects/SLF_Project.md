@@ -23,6 +23,6 @@ The team's first functional prototype can be found here:
 
 <h2>Milestones</h2>
 <p>
-  <a href="{{ '/projects/Milestone_1/' | relative_url }}">Milestone 1</a><br>
-  <a href="{{ '/projects/Milestone_2/' | relative_url }}">Milestone 2</a>
+  <a href="{{ '/projects/Milestone_1.md/' | relative_url }}">Milestone 1</a><br>
+  <a href="{{ '/projects/Milestone_2.md/' | relative_url }}">Milestone 2</a>
 </p>
