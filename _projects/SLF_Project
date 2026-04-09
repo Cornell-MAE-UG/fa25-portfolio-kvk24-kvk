@@ -17,4 +17,4 @@ The team's pitch can be found here:
 
 The second milestone of this project is the Functional Prototype. 
 The team's first functional prototype can be found here: 
-[Download Prototype](/assets/Prototype.pdf) in PDF format.
+[Download Prototype]({{ "/assets/Prototype.pdf" | relative_url }}) in PDF format.
