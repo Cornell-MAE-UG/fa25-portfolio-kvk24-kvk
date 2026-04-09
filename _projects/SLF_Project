@@ -18,3 +18,18 @@ The team's pitch can be found here:
 The second milestone of this project is the Functional Prototype. 
 The team's first functional prototype can be found here: 
 <a href="{{ '/assets/Prototype.pdf' | relative_url }}">Download Prototype</a> in PDF format.
+
+<p><strong>Project Milestones</strong></p>
+
+<ul>
+  <li>
+    <a href="{{ '/projects/Milestone_1/' | relative_url }}">
+      Milestone 1
+    </a>
+  </li>
+  <li>
+    <a href="{{ '/projects/Milestone_2/' | relative_url }}">
+      Milestone 2
+    </a>
+  </li>
+</ul>
