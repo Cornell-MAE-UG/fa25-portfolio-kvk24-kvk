@@ -156,7 +156,7 @@ Criterion 3: Vibration Detectability
 
 <p><strong>How it will be tested:</strong> A smartphone vibration analysis app (such as PhyPhox) will be used to measure frequency and generate a graph for analysis.</p>
 
-<p><strong>Photos of testing:</strong> T = 60 - 20 = 40 ms = 0.04 s → Frequency = 1/T = 25 Hz</p>
+<p><strong>Testing Calculations:</strong> T = 60 - 20 = 40 ms = 0.04 s → Frequency = 1/T = 25 Hz</p>
 
 <p><strong>Results of testing (Pass/Fail):</strong> Pass for all three criteria. The prototype produced a frequency of 25 Hz. Motion was primarily rotational and remained consistent for 5 minutes. The vibration was detectable by touch and sound.</p>
 
@@ -173,8 +173,6 @@ Criterion 3: Vibration Detectability
 <p><strong>Success Criterion tested:</strong> Criterion 4: Structural Stability</p>
 
 <p><strong>How it will be tested:</strong> A Newton-meter will be attached to the rod. Forces will be applied while measuring displacement and stability.</p>
-
-<p><strong>Photos of testing:</strong></p>
 
 <p><strong>Results of testing (Pass/Fail):</strong> Pass. The rod remained upright under 5 N of force with no permanent deformation.</p>
 
@@ -194,8 +192,6 @@ Criterion 4: Structural Stability
 </p>
 
 <p><strong>How it will be tested:</strong> The system will run continuously for 5 minutes while frequency is recorded at the beginning, middle, and end using a vibration analysis app. Stability will also be observed.</p>
-
-<p><strong>Photos of testing:</strong></p>
 
 <p><strong>Results of testing (Pass/Fail):</strong> Pass for both criteria. The system ran continuously for 5 minutes, maintained a frequency of 25 Hz ± 5 Hz, and did not tip over.</p>
 
