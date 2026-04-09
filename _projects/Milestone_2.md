@@ -88,6 +88,8 @@
 
 <p><strong>Overall Function:</strong> The device converts rotational motion from the motor into periodic vertical impacts, producing oscillatory motion in the tube.</p>
 
+<p><strong>Assembly Steps:</strong></p>
+
 ---
 
 <h2>Success Criteria</h2>
@@ -210,5 +212,3 @@ The pole functions as the primary method of attracting spotted lanternflies, as 
 </p>
 
 <p><strong>Sketch Book Design:</strong></p>
-
-<p><strong>Assembly Steps:</strong></p>
