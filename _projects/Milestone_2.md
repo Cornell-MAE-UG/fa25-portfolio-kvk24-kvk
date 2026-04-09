@@ -208,3 +208,7 @@ The base of the prototype serves as the foundation for the entire system and mai
 <p>
 The pole functions as the primary method of attracting spotted lanternflies, as research indicates they are drawn to sources emitting vibrations around 60 Hz. The motor and cam mechanism work together to periodically strike the pole, inducing vibrations that propagate along its length.
 </p>
+
+<p><strong>Sketch Book Design:</strong></p>
+
+<p><strong>Assembly Steps:</strong></p>
