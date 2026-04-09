@@ -1,6 +1,6 @@
 layout: project
 title: Milestone_1
-permalink: /projects/Milestone_1/
+permalink: /projects/Milestone_1.md/
 
 
 <h1>Guardians of the Grapevine Client Pitch</h1>
