@@ -196,3 +196,15 @@ Criterion 4: Structural Stability
 <p><strong>Results of testing (Pass/Fail):</strong> Pass for both criteria. The system ran continuously for 5 minutes, maintained a frequency of 25 Hz ± 5 Hz, and did not tip over.</p>
 
 <p><strong>Design Changes Needed:</strong> Increase frequency toward 60 Hz by selecting a stronger motor (e.g., from McMaster-Carr or Amazon). Consider a more durable rod material due to observed wear at the base contact point.</p>
+
+<h2>Illustration and Intent of the Design</h2>
+
+<p><strong>Explanation:</strong></p>
+
+<p>
+The base of the prototype serves as the foundation for the entire system and maintains the structural integrity of all components. It houses both the motor and the switch, which together generate the vibration of the pole. In future iterations, the base will also contain the electronic components required to power the bug-zapping mechanism.
+</p>
+
+<p>
+The pole functions as the primary method of attracting spotted lanternflies, as research indicates they are drawn to sources emitting vibrations around 60 Hz. The motor and cam mechanism work together to periodically strike the pole, inducing vibrations that propagate along its length.
+</p>
