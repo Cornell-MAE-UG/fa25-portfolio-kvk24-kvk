@@ -22,6 +22,7 @@ The team's first functional prototype can be found here:
 
 
 <h1>Milestones</h1>
+<a href="#milestone-1-client-pitch">Go to Milestone 1</a>
 
 <h1>Milestone 1: Client Pitch</h1>
 
