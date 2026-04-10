@@ -25,7 +25,7 @@ The team's first functional prototype can be found here:
 
 - [Milestone 1: Client Pitch](#milestone-1-client-pitch)
 
-## Milestone 1: Client Pitch
+# Milestone 1: Client Pitch
 
 <h1>Milestone 1: Client Pitch</h1>
 
