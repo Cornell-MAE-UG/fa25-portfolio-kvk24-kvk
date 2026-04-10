@@ -115,6 +115,8 @@ Affects device size and placement.
 </li>
 </ol>
 
+<h1>Milestone 2: Functional Prototype</h1>
+
 <h1>Design Documentation</h1>
 
 <h2><u>Components List</u></h2>
