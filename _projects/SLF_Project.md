@@ -22,12 +22,8 @@ The team's first functional prototype can be found here:
 
 
 <h2>Milestones</h2>
-layout: project
-title: Milestone_1
-permalink: /projects/Milestone_1.md/
 
-
-<h1>Guardians of the Grapevine Client Pitch</h1>
+<h1>Milestone 1: Client Pitch</h1>
 
 <p><strong>Team:</strong> Guardians of the Grapevine<br>
 <strong>Clients:</strong> Cornell CALS Extension / E&amp;J Gallo Winery / National Grape</p>
