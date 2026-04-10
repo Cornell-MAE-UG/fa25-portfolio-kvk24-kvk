@@ -211,7 +211,7 @@ Affects device size and placement.
 <p><strong>Overall Function:</strong> The device converts rotational motion from the motor into periodic vertical impacts, producing oscillatory motion in the tube.</p>
 
 <p><strong>Assembly Steps:</strong></p>
-![Image](https://github.com/user-attachments/assets/dcb6605d-537c-48e4-b1f1-f66d1075985c)
+image: /assets/images/Passembly.jpeg
 ---
 
 <h2>Success Criteria</h2>
