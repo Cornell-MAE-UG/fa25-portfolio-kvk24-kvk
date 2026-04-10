@@ -122,7 +122,7 @@ Affects device size and placement.
 
 <h1>Design Documentation</h1>
 
-<h2><u>Components List</u></h2>
+<h2>Components List</h2>
 
 <table border="1" cellpadding="8" cellspacing="0">
 <tr>
@@ -176,7 +176,7 @@ Affects device size and placement.
 
 ---
 
-<h2><u>Assembly Instructions</u></h2>
+<h2>Assembly Instructions</h2>
 
 <ol>
 <li>
