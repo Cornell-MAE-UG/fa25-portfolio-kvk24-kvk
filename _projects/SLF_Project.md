@@ -338,3 +338,8 @@ The pole functions as the primary method of attracting spotted lanternflies, as 
 </p>
 
 <p><strong>Sketch Book Design:</strong></p>
+<img width="390" height="527" alt="Image" src="https://github.com/user-attachments/assets/8df04749-ed0b-4eed-95b5-19ec3366a3fa" />
+
+<img width="436" height="543" alt="Image" src="https://github.com/user-attachments/assets/e1a31c5e-1622-4480-ad7c-215b5f8dbb23" />
+
+<img width="466" height="523" alt="Image" src="https://github.com/user-attachments/assets/c5f41d85-80dd-4804-9219-a3a5f471ca49" />
