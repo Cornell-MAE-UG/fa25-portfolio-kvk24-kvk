@@ -21,7 +21,7 @@ The team's first functional prototype can be found here:
 
 
 
-<h2>Milestones</h2>
+<h1>Milestones</h1>
 
 <h1>Milestone 1: Client Pitch</h1>
 
