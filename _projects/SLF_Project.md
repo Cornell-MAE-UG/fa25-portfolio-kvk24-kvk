@@ -24,10 +24,9 @@ The team's first functional prototype can be found here:
 # Milestones
 
 - [Milestone 1: Client Pitch](#milestone-1-client-pitch)
+- [Milestone 2: Functional Prototype](#milestone-2-functional-prototype)
 
 # Milestone 1: Client Pitch
-
-<h1>Milestone 1: Client Pitch</h1>
 
 <p><strong>Team:</strong> Guardians of the Grapevine<br>
 <strong>Clients:</strong> Cornell CALS Extension / E&amp;J Gallo Winery / National Grape</p>
@@ -119,7 +118,7 @@ Affects device size and placement.
 </li>
 </ol>
 
-<h1>Milestone 2: Functional Prototype</h1>
+# Milestone 2: Functional Prototype
 
 <h1>Design Documentation</h1>
 
