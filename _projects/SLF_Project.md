@@ -21,9 +21,11 @@ The team's first functional prototype can be found here:
 
 
 
-<h1>Milestones</h1>
-<a href="#milestone-1-client-pitch">Go to Milestone 1</a>
-<a href="#milestone-2-functional-prototype">Go to Milestone 2</a>
+# Milestones
+
+- [Milestone 1: Client Pitch](#milestone-1-client-pitch)
+
+## Milestone 1: Client Pitch
 
 <h1>Milestone 1: Client Pitch</h1>
 
