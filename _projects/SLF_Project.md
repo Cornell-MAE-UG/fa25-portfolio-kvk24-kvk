@@ -406,7 +406,11 @@ Because the system requires minimal setup and maintenance, it can be used withou
 <h2>Final Prototype Design</h2>
 
 <p><strong>Fig. 1:</strong> Overall picture of final design</p>
+<img width="289" height="688" alt="Screenshot 2026-05-05 at 9 12 26 PM" src="https://github.com/user-attachments/assets/4d6aa818-cdb2-4d23-a7d0-4f75f3d6506c" />
+
 <p><strong>Fig. 2:</strong> Sketch of design</p>
+<img width="607" height="686" alt="Screenshot 2026-05-05 at 9 12 17 PM" src="https://github.com/user-attachments/assets/a889a78b-374d-4a7b-97c7-0ed8cf361092" />
+
 
 <h2>Conclusion and Recommendation</h2>
 <p>
