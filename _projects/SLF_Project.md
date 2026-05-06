@@ -345,12 +345,9 @@ The pole functions as the primary method of attracting spotted lanternflies, as 
 
 <img width="436" height="543" alt="Image" src="https://github.com/user-attachments/assets/e1a31c5e-1622-4480-ad7c-215b5f8dbb23" />
 
+<img width="466" height="523" alt="Image" src="https://github.com/user-attachments/assets/c5f41d85-80dd-4804-9219-a3a5f471ca49" />
+
 # Milestone 3: Client Report
-
-<h1>Guardians of the Grapevine Client Report</h1>
-
-<p><strong>Team Members:</strong> Ash Puri, Henry Ainscough, James Larrabee, Katherine Krishtopa, Skylar Walcoff<br>
-<strong>Clients:</strong> Cornell CALS Extension / E&amp;J Gallo Winery / National Grape</p>
 
 <h2>Context & Problem Statement</h2>
 <p>
@@ -576,5 +573,3 @@ We also received guidance on optimizing the zapping mechanism, specifically the 
 </table>
 
 <p><strong>Total Cost:</strong> $76.35</p>
-
-<img width="466" height="523" alt="Image" src="https://github.com/user-attachments/assets/c5f41d85-80dd-4804-9219-a3a5f471ca49" />
