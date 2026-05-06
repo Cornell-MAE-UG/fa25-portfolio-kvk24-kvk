@@ -21,7 +21,7 @@ The team's first functional prototype can be found here:
 
 The third and final milestone of this project is the Client Report. 
 The team's client report can be found here: 
-<a href="{{ '/assets/Prototype.pdf' | relative_url }}">Download Report</a> in PDF format.
+<a href="{{ '/assets/report.pdf' | relative_url }}">Download Report</a> in PDF format.
 
 # Milestones
 
