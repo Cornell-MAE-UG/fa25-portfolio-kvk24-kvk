@@ -19,7 +19,9 @@ The second milestone of this project is the Functional Prototype.
 The team's first functional prototype can be found here: 
 <a href="{{ '/assets/Prototype.pdf' | relative_url }}">Download Prototype</a> in PDF format.
 
-
+The third and final milestone of this project is the Client Report. 
+The team's client report can be found here: 
+<a href="{{ '/assets/Prototype.pdf' | relative_url }}">Download Report</a> in PDF format.
 
 # Milestones
 
