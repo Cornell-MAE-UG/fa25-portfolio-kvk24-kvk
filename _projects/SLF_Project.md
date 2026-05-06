@@ -488,6 +488,192 @@ We also received guidance on optimizing the zapping mechanism, specifically the 
 </p>
 
 <h2>Bill of Materials</h2>
+<table border="1" cellpadding="8" cellspacing="0">
+<tr>
+<th>Part</th>
+<th>Specs</th>
+<th>McMaster Code</th>
+<th>Fabrication Details</th>
+<th>Reasoning</th>
+<th>Cost</th>
+</tr>
+
+<tr>
+<td>Base Plate</td>
+<td>Custom-designed base plate for final system</td>
+<td>NA</td>
+<td>CAD + 3D Print</td>
+<td>Holds and secures all components in place</td>
+<td>$50</td>
+</tr>
+
+<tr>
+<td>Prototype Base Plate</td>
+<td>Custom-designed base plate for prototype</td>
+<td>NA</td>
+<td>CAD + 3D Print</td>
+<td>Holds all components and provides a general idea about the final base plate</td>
+<td>$47.65</td>
+</tr>
+
+<tr>
+<td>Pole</td>
+<td>Outer Diameter: 1.75 in, Inner Diameter: 1.375 in, Impact-Resistant Polycarbonate Round Tube 1/16" Wall Thickness, 1-3/4" OD, 1-5/8" ID</td>
+<td>8585K88</td>
+<td>NA</td>
+<td>Transmits vibration</td>
+<td>$15.44</td>
+</tr>
+
+<tr>
+<td>DC Gear Motor</td>
+<td>60 Hz frequency, torque of 0.02 Nm and a power of around 7W and a speed of 3600 RPM</td>
+<td>In house</td>
+<td>NA</td>
+<td>Drives the vibration mechanism</td>
+<td>$1.95</td>
+</tr>
+
+<tr>
+<td>AA Batteries</td>
+<td>3 AA batteries</td>
+<td>In house</td>
+<td>NA</td>
+<td>Powers the motor</td>
+<td>$0.00</td>
+</tr>
+
+<tr>
+<td>Battery Holder</td>
+<td>AA Battery holder with wire leads</td>
+<td>In house</td>
+<td>Wires soldered to motor</td>
+<td>Holds batteries and supplies power</td>
+<td>$0.00</td>
+</tr>
+
+<tr>
+<td>AC Adaptor</td>
+<td>12VDC, 1500mA, AC Adaptor</td>
+<td>In house</td>
+<td>NA</td>
+<td>Powers the electric field</td>
+<td>$0.00</td>
+</tr>
+
+<tr>
+<td>Electric Screen</td>
+<td>24" Wide Aluminum Insect Screening, Unfinished</td>
+<td>1023A75</td>
+<td>Cut to size using scissors</td>
+<td>Surface for zapping</td>
+<td>$8.96</td>
+</tr>
+
+<tr>
+<td>32T Gear</td>
+<td>20 Degree Pressure Angle Plastic Gear, Round Bore, 32 Pitch, 32 Teeth</td>
+<td>2662N16</td>
+<td>NA</td>
+<td>Gear Train</td>
+<td>$5.91</td>
+</tr>
+
+<tr>
+<td>12T Gear</td>
+<td>20 Degree Pressure Angle Plastic Gear, Round Bore, 0.5 Module, 12 Teeth</td>
+<td>2662N27</td>
+<td>NA</td>
+<td>Gear Train</td>
+<td>$3.09</td>
+</tr>
+
+<tr>
+<td>14T Gear</td>
+<td>CAD (6 mm Bore)</td>
+<td>NA</td>
+<td>CAD</td>
+<td>Gear Train</td>
+<td>$0.25</td>
+</tr>
+
+<tr>
+<td>14T Gear</td>
+<td>CAD (6 mm Bore)</td>
+<td>NA</td>
+<td>CAD</td>
+<td>Backup for Gear Train</td>
+<td>$0.25</td>
+</tr>
+
+<tr>
+<td>14T Gear (2.3mm Bore)</td>
+<td>ARRMA Pinion Gear 14T 0.5 MOD CNC 2.3mm Bore, ARA-2629</td>
+<td><a href="https://www.amazon.com/gp/product/B0FX5W43L5/ref=ewc_pr_img_3?smid=ATVPDKIKX0DER&amp;psc=1">Amazon Link</a></td>
+<td>NA</td>
+<td>Gear Train</td>
+<td>$5.99</td>
+</tr>
+
+<tr>
+<td>Gear Shaft: 2mm</td>
+<td>MECCANIXITY 316 Stainless Steel Rod 5/64"(2mm) 5.91"(150mm) Length</td>
+<td><a href="https://www.amazon.com/gp/product/B0FXB3DV2J/ref=ewc_pr_img_1?smid=A1NR50YASSZD11&amp;th=1">Amazon Link</a></td>
+<td>NA</td>
+<td>Holds the gear train</td>
+<td>$6.02</td>
+</tr>
+
+<tr>
+<td>Gear Shaft: 6.35mm</td>
+<td>Rotary Shaft, 12L14 Carbon Steel, 1/4" Diameter, 3" Long</td>
+<td>1327K113</td>
+<td>NA</td>
+<td>Holds the gear train</td>
+<td>$4.10</td>
+</tr>
+
+<tr>
+<td>Vibration Damping Mounts</td>
+<td>Diameter: 5/16", Height: 5/16", Polyurethane Vibration-Damping Sandwich Mount with 4-40 Threaded Steel Stud and Insert, 2 lbs. Capacity</td>
+<td>96905K35</td>
+<td>NA</td>
+<td>Isolates vibration to the pole and reduces whole-system vibration</td>
+<td>$12</td>
+</tr>
+
+<tr>
+<td>Rough-Texture Paint</td>
+<td>Coverage: 10 ft² @ 1 mil</td>
+<td>7739T6</td>
+<td>NA</td>
+<td>Makes the pole look more appealing and conceals rough texture</td>
+<td>$14.14</td>
+</tr>
+
+<tr>
+<td>Zip Ties</td>
+<td>Standard lab zip ties</td>
+<td>In house</td>
+<td>NA</td>
+<td>Secures the electric screen</td>
+<td>$0.00</td>
+</tr>
+
+<tr>
+<td>Tape</td>
+<td>Scotch Blue standard tape</td>
+<td>In house</td>
+<td>NA</td>
+<td>Secures motor in place</td>
+<td>$0.00</td>
+</tr>
+
+</table>
+
+<p><strong>Total Cost:</strong> $175.50</p>
+
+<h2>Components List</h2>
 
 <table border="1" cellpadding="8" cellspacing="0">
 <tr>
@@ -510,7 +696,7 @@ We also received guidance on optimizing the zapping mechanism, specifically the 
 
 <tr>
 <td>Pole</td>
-<td>Outer Diameter: 1.75 in, Inner Diameter: 1.375 in, Impact-Resistant Polycarbonate Round Tube</td>
+<td>Outer Diameter: 1.75 in, Inner Diameter: 1.375 in, Impact-Resistant Polycarbonate Round Tube 1/16" Wall Thickness, 1-3/4" OD, 1-5/8" ID</td>
 <td>8585K88</td>
 <td>NA</td>
 <td>Transmits vibration</td>
@@ -519,7 +705,7 @@ We also received guidance on optimizing the zapping mechanism, specifically the 
 
 <tr>
 <td>DC Gear Motor</td>
-<td>60 Hz frequency, torque of 0.02 Nm, power around 7W, speed of 3600 RPM</td>
+<td>60 Hz frequency, torque of 0.02 Nm and a power of around 7W and a speed of 3600 RPM</td>
 <td>In house</td>
 <td>NA</td>
 <td>Drives the vibration mechanism</td>
@@ -555,7 +741,7 @@ We also received guidance on optimizing the zapping mechanism, specifically the 
 
 <tr>
 <td>Battery Holder</td>
-<td>AA battery holder with wire leads</td>
+<td>AA Battery holder with wire leads</td>
 <td>In house</td>
 <td>Wires soldered to motor</td>
 <td>Holds batteries and supplies power</td>
@@ -570,6 +756,7 @@ We also received guidance on optimizing the zapping mechanism, specifically the 
 <td>Powers the electric field</td>
 <td>$0.00</td>
 </tr>
+
 </table>
 
 <p><strong>Total Cost:</strong> $76.35</p>
